@@ -44,7 +44,7 @@ Python libraries and modules:
 
 To debug the program, you may see the log file located /tmp/crontest.log
 The output of crawled textual DB data is is stored in "HTMLs\[COURSE_NAME]" folder .
-
+Please find the graphic instuction in **overview_slide.pdf**
 
 ## Test environment
 Python 3.5, Windows 10, UBUNTU 14.04
